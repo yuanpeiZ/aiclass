@@ -2,7 +2,7 @@
 
 Artificial intelligence (AI) is intelligence exhibited by intelligent agents(machines), rather than humans or other animals. AI research focus on the study of intelligent agents: any programmed device that senses its environment and takes actions that maximize its chance of success at some goal. Artificial intelligence concerns techniques that mimic human cognitive functions such as "learning" and "problem solving".
 
-[Aicar Video](https://github.com/luckh2/aiclass/raw/master/aicar.gif)
+![Aicar Video](https://github.com/luckh2/aiclass/raw/master/media/aicar.gif)
 
 ### Class PPT
 [Part I(Agent Building)]
