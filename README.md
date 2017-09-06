@@ -31,30 +31,37 @@ Artificial intelligence (AI) is intelligence exhibited by intelligent agents
 - [ Reinforcement Learning](https://github.com/luckh2/aiclass/raw/master/ppt/hands-on16.pptx)
 
 ### Tools and Packages
+[DroidCam App](https://github.com/luckh2/aiclass/raw/master/tools/dc502.apk)
+[DroidCam for Win](https://github.com/luckh2/aiclass/raw/master/tools/DroidCam.Client.5.0.1.zip)
+[OpenCV package for Win](https://github.com/luckh2/aiclass/raw/master/tools/opencv.rar)
+[pybluex package for Win](https://github.com/luckh2/aiclass/raw/master/tools/pyblue.rar)
+
+### Startup codes
+[Code Snippets](https://github.com/luckh2/aiclass/raw/master/startup/)
 
 ### Class Videos
 [Part I(Agent Building)]
 
-- [About the class](https://github.com/luckh2/aiclass/edit/master/README.md)
-- [Arduino Basics](https://github.com/luckh2/aiclass/edit/master/README.md)
-- [Aicar Building](https://github.com/luckh2/aiclass/edit/master/README.md)
+- [About the class](https://github.com/luckh2/aiclass/raw/master/media/aicar.mp4)
+- [Arduino Basics](https://github.com/luckh2/aiclass/raw/master/media/aicar.mp4)
+- [Aicar Building](https://github.com/luckh2/aiclass/raw/master/media/aicar.mp4)
 
 [Part II Fundamentals of Machine Learning(Traditional Intelligence)]
-- [ The Machine Learning Landscape](https://github.com/luckh2/aiclass/edit/master/README.md)
-- [ End-to-End Machine Learning Project](https://github.com/luckh2/aiclass/edit/master/README.md)
-- [ Classification](https://github.com/luckh2/aiclass/edit/master/README.md)
-- [ Training Models](https://github.com/luckh2/aiclass/edit/master/README.md)
-- [ Support Vector Machines](https://github.com/luckh2/aiclass/edit/master/README.md)
-- [ Decision Trees](https://github.com/luckh2/aiclass/edit/master/README.md)
-- [ Ensemble Learning and Random Forests](https://github.com/luckh2/aiclass/edit/master/README.md)
-- [ Dimensionality Reduction](https://github.com/luckh2/aiclass/edit/master/README.md)
+- [ The Machine Learning Landscape](https://github.com/luckh2/aiclass/raw/master/media/aicar.mp4)
+- [ End-to-End Machine Learning Project](https://github.com/luckh2/aiclass/raw/master/media/aicar.mp4)
+- [ Classification](https://github.com/luckh2/aiclass/raw/master/media/aicar.mp4)
+- [ Training Models](https://github.com/luckh2/aiclass/raw/master/media/aicar.mp4)
+- [ Support Vector Machines](https://github.com/luckh2/aiclass/raw/master/media/aicar.mp4)
+- [ Decision Trees](https://github.com/luckh2/aiclass/raw/master/media/aicar.mp4)
+- [ Ensemble Learning and Random Forests](https://github.com/luckh2/aiclass/raw/master/media/aicar.mp4)
+- [ Dimensionality Reduction](https://github.com/luckh2/aiclass/raw/master/media/aicar.mp4)
 
 [Part III  Neural Networks and Deep Learning(DeepLearning Intelligence)]
-- [ Up and Running with TensorFlow](https://github.com/luckh2/aiclass/edit/master/README.md)
-- [ Introduction to Artificial Neural Networks](https://github.com/luckh2/aiclass/edit/master/README.md)
-- [ Training Deep Neural Nets](https://github.com/luckh2/aiclass/edit/master/README.md)
-- [ Convolutional Neural Networks](https://github.com/luckh2/aiclass/edit/master/README.md)
-- [ Recurrent Neural Networks](https://github.com/luckh2/aiclass/edit/master/README.md)
-- [ Autoencoders](https://github.com/luckh2/aiclass/edit/master/README.md)
-- [ Reinforcement Learning](https://github.com/luckh2/aiclass/edit/master/README.md)
+- [ Up and Running with TensorFlow](https://github.com/luckh2/aiclass/raw/master/media/aicar.mp4)
+- [ Introduction to Artificial Neural Networks](https://github.com/luckh2/aiclass/raw/master/media/aicar.mp4)
+- [ Training Deep Neural Nets](https://github.com/luckh2/aiclass/raw/master/media/aicar.mp4)
+- [ Convolutional Neural Networks](https://github.com/luckh2/aiclass/raw/master/media/aicar.mp4)
+- [ Recurrent Neural Networks](https://github.com/luckh2/aiclass/raw/master/media/aicar.mp4)
+- [ Autoencoders](https://github.com/luckh2/aiclass/raw/master/media/aicar.mp4)
+- [ Reinforcement Learning](https://github.com/luckh2/aiclass/raw/master/media/aicar.mp4)
 
