@@ -1,37 +1,58 @@
-## Welcome to GitHub Pages
+## Artificial Intelligence Learning Class
 
-You can use the [editor on GitHub](https://github.com/luckh2/aiclass/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Artificial intelligence (AI) is intelligence exhibited by intelligent agents(machines), rather than humans or other animals. AI research focus on the study of intelligent agents: any programmed device that senses its environment and takes actions that maximize its chance of success at some goal. Artificial intelligence concerns techniques that mimic human cognitive functions such as "learning" and "problem solving".
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Class PPT
+[Part I](Agent Building)
 
-### Markdown
+[About the class](https://github.com/luckh2/aiclass/edit/master/README.md)
+[Arduino Basics](https://github.com/luckh2/aiclass/edit/master/README.md)
+[Aicar Building](https://github.com/luckh2/aiclass/edit/master/README.md)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Part II Fundamentals of Machine Learning](Traditional Intelligence)
+[ The Machine Learning Landscape]
+[ End-to-End Machine Learning Project]
+[ Classification]
+[ Training Models]
+[ Support Vector Machines]
+[ Decision Trees]
+[ Ensemble Learning and Random Forests]
+[ Dimensionality Reduction]
 
-```markdown
-Syntax highlighted code block
+[Part III  Neural Networks and Deep Learning](DeepLearning Intelligence)
+[ Up and Running with TensorFlow]
+[ Introduction to Artificial Neural Networks]
+[ Training Deep Neural Nets]
+[ Convolutional Neural Networks]
+[ Recurrent Neural Networks]
+[ Autoencoders]
+[ Reinforcement Learning]
 
-# Header 1
-## Header 2
-### Header 3
+### Tools and Packages
 
-- Bulleted
-- List
+### Class Videos
+[Part I](Agent Building)
 
-1. Numbered
-2. List
+[About the class](https://github.com/luckh2/aiclass/edit/master/README.md)
+[Arduino Basics](https://github.com/luckh2/aiclass/edit/master/README.md)
+[Aicar Building](https://github.com/luckh2/aiclass/edit/master/README.md)
 
-**Bold** and _Italic_ and `Code` text
+[Part II Fundamentals of Machine Learning](Traditional Intelligence)
+[ The Machine Learning Landscape]
+[ End-to-End Machine Learning Project]
+[ Classification]
+[ Training Models]
+[ Support Vector Machines]
+[ Decision Trees]
+[ Ensemble Learning and Random Forests]
+[ Dimensionality Reduction]
 
-[Link](url) and ![Image](src)
-```
+[Part III  Neural Networks and Deep Learning](DeepLearning Intelligence)
+[ Up and Running with TensorFlow]
+[ Introduction to Artificial Neural Networks]
+[ Training Deep Neural Nets]
+[ Convolutional Neural Networks]
+[ Recurrent Neural Networks]
+[ Autoencoders]
+[ Reinforcement Learning]
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/luckh2/aiclass/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
