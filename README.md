@@ -34,7 +34,7 @@ Artificial intelligence (AI) is intelligence exhibited by intelligent agents
 - [DroidCam App](https://github.com/luckh2/aiclass/raw/master/tools/dc502.apk)
 - [DroidCam for Win](https://github.com/luckh2/aiclass/raw/master/tools/DroidCam.Client.5.0.1.zip)
 - [OpenCV package for Win](https://github.com/luckh2/aiclass/raw/master/tools/opencv.rar)
-- [pybluex package for Win](https://github.com/luckh2/aiclass/raw/master/tools/pyblue.rar)
+- [pybluez package for Win](https://github.com/luckh2/aiclass/raw/master/tools/pyblue.rar)
 
 ### Startup codes
 - [Code Snippets](https://github.com/luckh2/aiclass/raw/master/startup/)
