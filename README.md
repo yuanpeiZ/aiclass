@@ -1,0 +1,2 @@
+# aiclass
+artificial intelligence  class
