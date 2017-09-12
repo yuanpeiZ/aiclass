@@ -42,26 +42,26 @@ Artificial intelligence (AI) is intelligence exhibited by intelligent agents
 ### Class Videos
 [Part I(Agent Building)]
 
-- [About the class](https://github.com/luckh2/aiclass/raw/master/media/aicar.mp4)
-- [Arduino Basics](https://github.com/luckh2/aiclass/raw/master/media/aicar.mp4)
-- [Aicar Building](https://github.com/luckh2/aiclass/raw/master/media/aicar.mp4)
+- [About the class](https://luckh2.github.io/aiclass/online/ai1.html)
+- [Arduino Basics](https://luckh2.github.io/aiclass/online/m.html)
+- [Aicar Building](https://luckh2.github.io/aiclass/online/m.html)
 
 [Part II Fundamentals of Machine Learning(Traditional Intelligence)]
-- [ The Machine Learning Landscape](https://github.com/luckh2/aiclass/raw/master/media/aicar.mp4)
-- [ End-to-End Machine Learning Project](https://github.com/luckh2/aiclass/raw/master/media/aicar.mp4)
-- [ Classification](https://github.com/luckh2/aiclass/raw/master/media/aicar.mp4)
-- [ Training Models](https://github.com/luckh2/aiclass/raw/master/media/aicar.mp4)
-- [ Support Vector Machines](https://github.com/luckh2/aiclass/raw/master/media/aicar.mp4)
-- [ Decision Trees](https://github.com/luckh2/aiclass/raw/master/media/aicar.mp4)
-- [ Ensemble Learning and Random Forests](https://github.com/luckh2/aiclass/raw/master/media/aicar.mp4)
-- [ Dimensionality Reduction](https://github.com/luckh2/aiclass/raw/master/media/aicar.mp4)
+- [ The Machine Learning Landscape](https://luckh2.github.io/aiclass/online/m.html)
+- [ End-to-End Machine Learning Project](https://luckh2.github.io/aiclass/online/m.html)
+- [ Classification](https://luckh2.github.io/aiclass/online/m.html)
+- [ Training Models](https://luckh2.github.io/aiclass/online/m.html)
+- [ Support Vector Machines](https://luckh2.github.io/aiclass/online/m.html)
+- [ Decision Trees](https://luckh2.github.io/aiclass/online/m.html)
+- [ Ensemble Learning and Random Forests](https://luckh2.github.io/aiclass/online/m.html)
+- [ Dimensionality Reduction](https://luckh2.github.io/aiclass/online/m.html)
 
 [Part III  Neural Networks and Deep Learning(DeepLearning Intelligence)]
-- [ Up and Running with TensorFlow](https://github.com/luckh2/aiclass/raw/master/media/aicar.mp4)
-- [ Introduction to Artificial Neural Networks](https://github.com/luckh2/aiclass/raw/master/media/aicar.mp4)
-- [ Training Deep Neural Nets](https://github.com/luckh2/aiclass/raw/master/media/aicar.mp4)
-- [ Convolutional Neural Networks](https://github.com/luckh2/aiclass/raw/master/media/aicar.mp4)
-- [ Recurrent Neural Networks](https://github.com/luckh2/aiclass/raw/master/media/aicar.mp4)
-- [ Autoencoders](https://github.com/luckh2/aiclass/raw/master/media/aicar.mp4)
-- [ Reinforcement Learning](https://github.com/luckh2/aiclass/raw/master/media/aicar.mp4)
+- [ Up and Running with TensorFlow](https://luckh2.github.io/aiclass/online/m.html)
+- [ Introduction to Artificial Neural Networks](https://luckh2.github.io/aiclass/online/m.html)
+- [ Training Deep Neural Nets](https://luckh2.github.io/aiclass/online/m.html)
+- [ Convolutional Neural Networks](https://luckh2.github.io/aiclass/online/m.html)
+- [ Recurrent Neural Networks](https://luckh2.github.io/aiclass/online/m.html)
+- [ Autoencoders](https://luckh2.github.io/aiclass/online/m.html)
+- [ Reinforcement Learning](https://luckh2.github.io/aiclass/online/m.html)
 
