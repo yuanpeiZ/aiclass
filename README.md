@@ -39,6 +39,10 @@ Artificial intelligence (AI) is intelligence exhibited by intelligent agents
 ### Startup codes
 - [Code Snippets](https://github.com/luckh2/aiclass/raw/master/startup/)
 
+### Arduino References
+- [Getting Started with Arduino](https://github.com/luckh2/aiclass/raw/master/media/getting_started_with_arduino_v2.pdf)
+- [Arduino Programming Notebook](https://github.com/luckh2/aiclass/raw/master/media/arduino_notebook_v1-1.pdf)
+
 ### Aicar Videos （请在宽带环境下观看视频）
 - [Aicar 1](https://luckh2.github.io/aiclass/online/m.html)
 - [Aicar 2](https://luckh2.github.io/aiclass/online/m2.html)
