@@ -39,6 +39,18 @@ Artificial intelligence (AI) is intelligence exhibited by intelligent agents
 ### Startup codes
 - [Code Snippets](https://github.com/luckh2/aiclass/raw/master/startup/)
 
+### Aicar Videos
+- [Aicar 1](https://luckh2.github.io/aiclass/online/m.html)
+- [Aicar 2](https://luckh2.github.io/aiclass/online/m2.html)
+- [Aicar 3](https://luckh2.github.io/aiclass/online/m3.html)
+- [Aicar 4](https://luckh2.github.io/aiclass/online/m4.html)
+
+### Arduino Videos (Learning the beats)
+- [Beat It](https://luckh2.github.io/aiclass/online/beatit.html)
+- [Rock You](https://luckh2.github.io/aiclass/online/rockyou.html)
+- [星星点灯](https://luckh2.github.io/aiclass/online/xxdd.html)
+- [成都](https://luckh2.github.io/aiclass/online/cd.html)
+
 ### Class Videos
 [Part I(Agent Building)]
 
