@@ -59,7 +59,7 @@ Artificial intelligence (AI) is intelligence exhibited by intelligent agents
 [Part I(Agent Building)]
 
 - [About the class](https://luckh2.github.io/aiclass/online/ai1.html)
-- [Arduino Basics](https://luckh2.github.io/aiclass/online/m.html)
+- [Arduino Basics](https://luckh2.github.io/aiclass/online/ai2.html)
 - [Aicar Building](https://luckh2.github.io/aiclass/online/m.html)
 
 [Part II Fundamentals of Machine Learning(Traditional Intelligence)]
